@@ -1,0 +1,60 @@
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.exe
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.deps.json
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.runtimeconfig.json
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.runtimeconfig.dev.json
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\ref\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.pdb
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.Form1.resources
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.csproj.GenerateResource.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.AssemblyInfoInputs.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.AssemblyInfo.cs
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.csproj.CoreCompileInputs.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\ref\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.pdb
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.genruntimeconfig.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.CheckComboBox.resources
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.CustomCheckBox.resources
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\uygulamalar\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.csprojAssemblyReference.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.exe
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.deps.json
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.runtimeconfig.json
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.runtimeconfig.dev.json
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\ref\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\bin\Debug\net5.0-windows\Project8.pdb
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.CheckComboBox.resources
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.CustomCheckBox.resources
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.Form1.resources
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.csproj.GenerateResource.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.AssemblyInfoInputs.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.AssemblyInfo.cs
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.csproj.CoreCompileInputs.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\ref\Project8.dll
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.pdb
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.genruntimeconfig.cache
+C:\Users\f_ayd\Desktop\okul\akademik\Lisans\Görsel Programlama\VisualApplications\Project8\obj\Debug\net5.0-windows\Project8.csproj.AssemblyReference.cache
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\Project8.exe
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\Project8.deps.json
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\Project8.runtimeconfig.json
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\Project8.runtimeconfig.dev.json
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\Project8.dll
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\ref\Project8.dll
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\bin\Debug\net5.0-windows\Project8.pdb
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.csprojAssemblyReference.cache
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.CheckComboBox.resources
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.Form1.resources
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.csproj.GenerateResource.cache
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.AssemblyInfoInputs.cache
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.AssemblyInfo.cs
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.csproj.CoreCompileInputs.cache
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.dll
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\ref\Project8.dll
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.pdb
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.genruntimeconfig.cache
+C:\Users\nsmrt\Downloads\WinFormsApps\Project8\obj\Debug\net5.0-windows\Project8.MyRadioButton.resources
